@@ -46,7 +46,11 @@ class Square extends Polygon{
   
 }}
   
+<<<<<<< HEAD
 
+=======
+}
+>>>>>>> eb8d33fde7ff09c5bde33acd8d24c5628fcc0d48
 get area(){
  
   return this.sides[0]*this.sides[1]
